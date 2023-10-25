@@ -1,0 +1,4 @@
+find . -name "*.fa" && find . -name "*.fasta"
+
+
+echo "I added a new comment :)"
